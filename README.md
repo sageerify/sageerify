@@ -29,6 +29,7 @@ Aspiring **Software Engineer** | Frontend Developer | Lifelong Learner
 
 ## 📨 Connect with Me:  
 <p align="left">  
+
   <a href="mailto:s.hunzai100@gmail.com" target="_blank">  
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>  
   </a>  
