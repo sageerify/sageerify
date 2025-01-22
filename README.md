@@ -14,7 +14,8 @@ Aspiring **Software Engineer** | Frontend Developer | Lifelong Learner
 - 💡 Passionate about building dynamic websites for **portfolios**, **blogs**, and **financial advisory platforms**.  
 - 🤝 Open to collaborating on **frontend** and **backend projects**.  
 - 💬 Ask me about **web development**, **backend systems**, or my projects!  
-- ⚡ Fun fact: I love exploring new technologies, solving problems, and hiking in my free time.  
+- ⚡ Fun fact: I love exploring new technologies, solving problems, and hiking in my free time.
+- 📫 How to reach me s.hunzai100@gmail.com
 
 <br />
 
