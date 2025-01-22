@@ -13,7 +13,7 @@ Aspiring **Software Engineer** | Frontend Developer | Lifelong Learner
 - 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**, **React**, and **Next.js**.  
 - 💡 Passionate about building dynamic websites for **portfolios**, **blogs**, and **financial advisory platforms**.  
 - 🤝 Open to collaborating on **frontend** and **backend projects**.  
-- 💬 Ask me about **web development**, **backend systems**, or my projects!  
+- 💬 Feel free to ask me about **web development**, **backend systems**, or my projects!  
 - ⚡ Fun fact: I love exploring new technologies, solving problems, and hiking in my free time.
 - 📫 How to reach me s.hunzai100@gmail.com
 
