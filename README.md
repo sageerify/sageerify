@@ -10,7 +10,7 @@ Aspiring **Software Engineer** | Frontend Developer | Lifelong Learner
 ---
 
 ## 🌟 About Me:  
-- 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**, **React**, and **Next.js**.  
+- 🌱 I’m currently working on **HTML**, **CSS**, **JavaScript**, **React**, and **Next.js**.  
 - 💡 Passionate about building dynamic websites for **portfolios**, **blogs**, and **financial advisory platforms**.  
 - 🤝 Open to collaborating on **frontend** and **backend projects**.  
 - 💬 Feel free to ask me about **web development**, **backend systems**, or my projects!  
