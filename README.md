@@ -15,7 +15,7 @@ Aspiring **Software Engineer** | Frontend Developer | Lifelong Learner
 - 🤝 Open to collaborating on **frontend** and **backend projects**.  
 - 💬 Feel free to ask me about **web development**, **backend systems**, or my projects!  
 - ⚡ Fun fact: I love exploring new technologies, solving problems, and hiking in my free time.
-- 📫 How to reach me s.hunzai100@gmail.com
+- 📫 How to reach me sageerify@gmail.com
 
 <br />
 
