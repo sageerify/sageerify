@@ -16,7 +16,7 @@ Aspiring **Software Engineer** | Frontend Developer | Lifelong Learner
 - 💬 Feel free to ask me about **web development**, **backend systems**, or my projects!  
 - ⚡ Fun fact: I love exploring new technologies, solving problems, and hiking in my free time.
 - 📫 How to reach me s.hunzai100@gmail.com
-- Also checkout my website https://hunzatimes.com
+- Also checkout my websites : https://hunzatimes.com
 <br />
 
 ## 🏆 GitHub Trophies:  
