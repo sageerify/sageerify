@@ -28,7 +28,7 @@ Aspiring **Software Engineer** | Frontend Developer | Blogger | Lifelong Learner
 
 ---
 
-## 📨 Connect with Me:  
+## 📨 Connect with Me Through:  
 <p align="left">  
 
   <a href="mailto:s.hunzai100@gmail.com" target="_blank">  
