@@ -3,7 +3,7 @@
 
 # Hi there👋, I'm Sageer 
 
-Aspiring **Software Engineer** | Frontend Developer | Lifelong Learner  
+Aspiring **Software Engineer** | Frontend Developer | Blogger | Lifelong Learner  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sageerify&label=Profile%20views&color=0e75b6&style=flat)  
 
@@ -16,7 +16,7 @@ Aspiring **Software Engineer** | Frontend Developer | Lifelong Learner
 - 💬 Feel free to ask me about **web development**, **backend systems**, or my projects!  
 - ⚡ Fun fact: I love exploring new technologies, solving problems, and hiking in my free time.
 - 📫 How to reach me s.hunzai100@gmail.com
-- Also checkout my websites : https://hunzatimes.com
+- Also checkout my websites : https://hunzatimes.com & https://hunzapost.info
 <br />
 
 ## 🏆 GitHub Trophies:  
