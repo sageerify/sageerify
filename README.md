@@ -1,7 +1,7 @@
 
 <!-- README.md -->
 
-# Hi there👋, I'm Sageerify  
+# Hi there👋, I'm Sageer 
 
 Aspiring **Software Engineer** | Frontend Developer | Lifelong Learner  
 
