@@ -8,7 +8,7 @@ Aspiring **Software Engineer** | Frontend Developer | Blogger | Lifelong Learner
 
 ---
 
-## 🌟 About Me:  
+## 🌟 About Me: 
 - 🌱 I’m currently working on **HTML**, **CSS**, **JavaScript**, **React**, and **Next.js**.  
 - 💡 Passionate about building dynamic websites for **portfolios**, **blogs**, and **financial advisory platforms**.  
 - 🤝 Open to collaborating on **frontend** and **backend projects**.  
