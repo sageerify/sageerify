@@ -101,9 +101,10 @@ Aspiring **Software Engineer** | Frontend Developer | Blogger | Lifelong Learner
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
    <img src="https://img.icons8.com/color/48/000000/settings.png" alt="Settings"/>
-   <img src="https://img.icons8.com/color/48/000000/spotify.png" alt="Spotify"/>
+   <img src="https://img.icons8.com/ios/50/000000/spotify.png" alt="Spotify"/>
+
    <img src="https://img.icons8.com/color/48/000000/udemy.png" alt="Udemy"/>
-   <img src="https://img.icons8.com/color/48/000000/coursera.png" alt="Coursera"/>
+   
 
 
 
