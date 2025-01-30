@@ -39,8 +39,8 @@ Aspiring **Software Engineer** | Frontend Developer | Blogger | Lifelong Learner
   <a href="https://instagram.com/sageerify" target="_blank">  
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>  
   </a>  
-    <a href="https://hunzatimes.com" target="_blank">  
-    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website"/>  
+<a href="https://hunzatimes.com" target="_blank">  
+    <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress"/>  
 </a>
   <a href="https://www.facebook.com/profile.php?id=100084216848935&mibextid=ZbWKwL" target="_blank">  
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>  
