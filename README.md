@@ -48,6 +48,9 @@ Aspiring **Software Engineer** | Frontend Developer | Blogger | Lifelong Learner
   <a href="https://www.youtube.com/@sageerify10" target="_blank">  
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/>  
   </a>  
+  <a href="https://stackoverflow.com/users/28930309/sageer-ahmed" target="_blank">  
+    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow"/>  
+</a>
   <a href="https://hunzapost.info" target="_blank">  
     <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website"/>  
 </a>
