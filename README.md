@@ -102,6 +102,8 @@ Aspiring **Software Engineer** | Frontend Developer | Blogger | Lifelong Learner
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
    <img src="https://img.icons8.com/color/48/000000/settings.png" alt="Settings"/>
    <img src="https://img.icons8.com/color/48/000000/spotify.png" alt="Spotify"/>
+   <img src="https://img.icons8.com/color/48/000000/udemy.png" alt="Udemy"/>
+
 
 
    
