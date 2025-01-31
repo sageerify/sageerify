@@ -98,10 +98,8 @@ Aspiring **Software Engineer** | Frontend Developer | Blogger | Lifelong Learner
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jekyll/jekyll-original.svg" alt="Jekyll" width="40" height="40"/>    
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="Apple Creative Tools" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="Adobe After Effects" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>  
-   <a href="https://hunzatimes.com" target="_blank">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>   
     <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress"/>  
-</a>
    <img src="https://img.icons8.com/color/48/000000/settings.png" alt="Settings"/>
    <img src="https://img.icons8.com/fluency/48/000000/spotify.png" alt="Spotify"/>
 
