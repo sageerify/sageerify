@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-# Yo, what's up? 👋 I'm Sageer. 
+# Yo, what's up? 👋 I'm Sageer Ahmed. 
 
 Aspiring **Software Engineer** | Frontend Developer | Blogger | Lifelong Learner
 
