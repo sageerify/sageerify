@@ -53,8 +53,6 @@ Aspiring **Software Engineer** | Frontend Developer | Blogger | Lifelong Learner
   <a href="https://hunzapost.info" target="_blank">  
     <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website"/>  
 </a>
-
-
 </p>  
 
 <br />
