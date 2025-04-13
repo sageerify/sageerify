@@ -1,6 +1,6 @@
 <!-- README.md -->   
 
-<div align="center">  
+<div align="center">    
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,20,22&height=200&section=header&text=Yo,%20what%27s%20up?%20%F0%9F%91%8B%20I%27m%20Sageer&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
 
