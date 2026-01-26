@@ -17,8 +17,8 @@
   <a href="mailto:s.hunzai100@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-2196F3?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://hunzatimes.com">
-    <img src="https://img.shields.io/badge/Website-HunzaTimes-2196F3?style=for-the-badge&logo=wordpress" alt="Website">
+  <a href="[https://sageerify.vercel.app/]">
+    <img src="https://img.shields.io/badge/Website-HunzaTimes-2196F3?style=for-the-badge&logo=website" alt="Website">
   </a>
   <a href="https://hunzapost.info">
     <img src="https://img.shields.io/badge/Blog-HunzaPost-2196F3?style=for-the-badge&logo=wordpress" alt="Blog">
@@ -259,6 +259,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,20,22&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
+
 
 
 
