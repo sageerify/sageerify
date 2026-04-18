@@ -1,11 +1,13 @@
 <!-- README.md -->     
 
 <div align="center">    
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hi,%20I'm%20Sageer&fontSize=38&fontAlignY=50&animation=blink&fontColor=00ffcc" width="100%"/>     
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hi%20I%27m%20Sageer&fontSize=38&fontAlignY=50&animation=fadeIn&fontColor=00ffcc" width="100%"/>     
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&color=00FFCC&center=true&vCenter=true&width=600&lines=%3E+Initializing+Developer...;%3E+Frontend+Engineer;%3E+Building+Digital+Experiences;%3E+Exploring+Mountains+%26+Code;%3E+System+Status:+Online+%E2%9C%94" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&pause=800&color=00FFCC&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Engineer+%F0%9F%92%BB;Digital+Craftsman+%F0%9F%94%A8;WordPress+Wizard+%F0%9F%AA%84;Content+Creator+%26+Blogger+%F0%9F%93%9D;Mountain+Explorer+%F0%9F%8F%94%EF%B8%8F;Code+Artist+%F0%9F%8E%A8" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
