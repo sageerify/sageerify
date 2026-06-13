@@ -1,6 +1,6 @@
 <!-- README.md -->     
 <div align="center">    
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hi%2C%20I%27m%20Sageer&fontSize=38&fontAlignY=50&animation=fadeIn&fontColor=00ffcc" width="100%"/>     
+  <img src="https://capsule-render.vercel.app/api? type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hi%2C%20I%27m%20Sageer&fontSize=38&fontAlignY=50&animation=fadeIn&fontColor=00ffcc" width="100%"/>     
 </div>
 
 <div align="center">
