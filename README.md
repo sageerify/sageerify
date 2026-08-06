@@ -45,8 +45,8 @@
     <tr>
       <td>
         <ul>
-         
-          <li>🚀 Passionate about creating <b>jaw-dropping web experiences</b></li>
+                    <li>🌎 Check my  <a href="https://sageerify.vercel.app">Portfolio</a></li>
+                            <li>🚀 Passionate about creating <b>jaw-dropping web experiences</b></li>
           <li>🌟 Crafting stunning websites with <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript</b></li>
           <li>⚛️ Building incredible apps with <b>React</b> and <b>Next.js</b></li>
           <li>💅 Styling with <b>Tailwind CSS</b> and <b>Bootstrap</b> for pixel-perfect designs</li>
@@ -54,13 +54,14 @@
           <li>📊 Data management expert with <b>MySQL</b></li>
           <li>🌄 Mountain explorer and hiking enthusiast</li>
           <li>✍️ Content creator at <a href="https://hunzatimes.com">HunzaTimes</a> & <a href="https://hunzapost.info">HunzaPost</a></li>
-           <li>🌎 Check my  <a href="https://sageerify.vercel.app">Portfolio</a></li>
         </ul>
       </td>
       <td>
         <img width="320" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Coding animation">
       </td>
     </tr>
+
+
   </table>
 </div>
 
