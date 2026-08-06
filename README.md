@@ -13,7 +13,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
 </div>
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sageerify&label=Profile%20views&color=2196F3&style=for-the-badge" alt="Profile Views">
   <a href="mailto:s.hunzai100@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-2196F3?style=for-the-badge&logo=gmail" alt="Email">
