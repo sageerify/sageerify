@@ -45,7 +45,7 @@
     <tr>
       <td>
         <ul>
-         <li>🌎 Check my  <a href="https://sageerify.vercel.app">Portfolio</a></li> 
+         
           <li>🚀 Passionate about creating <b>jaw-dropping web experiences</b></li>
           <li>🌟 Crafting stunning websites with <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript</b></li>
           <li>⚛️ Building incredible apps with <b>React</b> and <b>Next.js</b></li>
@@ -54,6 +54,7 @@
           <li>📊 Data management expert with <b>MySQL</b></li>
           <li>🌄 Mountain explorer and hiking enthusiast</li>
           <li>✍️ Content creator at <a href="https://hunzatimes.com">HunzaTimes</a> & <a href="https://hunzapost.info">HunzaPost</a></li>
+           <li>🌎 Check my  <a href="https://sageerify.vercel.app">Portfolio</a></li>
         </ul>
       </td>
       <td>
