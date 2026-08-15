@@ -33,6 +33,8 @@ $ cat about.md
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=python&logoColor=black)
+
 
 **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -55,26 +57,6 @@ $ cat about.md
 
 ---
 
-## Featured Projects
-
-### 🎓 ScholarMatch (ScholarshipFinder)
-Global opportunity-discovery platform for scholarships, fellowships, internships, and international jobs.
-`Next.js` `TypeScript` `Tailwind CSS` `MongoDB`
-Programmatic SEO architecture, blog admin panel, and a layered monetization strategy (AdSense, affiliate, sponsored listings).
-
-### 🧭 TourMate — Final Year Project
-MERN-stack tourism platform connecting travelers in Gilgit-Baltistan with local guides and photographers.
-`MongoDB` `Express` `React` `Node.js`
-
-### 🍽️ Dawat Restaurant
-Rooftop dining website for a restaurant at Indus Lodges.
-`React` `Tailwind CSS`
-
-### 🏨 The Mandarin Inn
-Business website for a 3-star hotel.
-
-### ☕ Sole Cafe (Brooklyn)
-Lightweight, dependency-free site built with vanilla HTML/CSS/JS.
 
 > More projects and case studies on my [portfolio site](https://sageerify.vercel.app).
 
@@ -94,20 +76,6 @@ Lightweight, dependency-free site built with vanilla HTML/CSS/JS.
 </div>
 
 > **If a stats card shows "Something went wrong" or stays blank:** it's almost always the shared `vercel.app` stats API being rate-limited or briefly down — not your profile. Refresh in a minute, or [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) of `github-readme-stats` for a card that never rate-limits.
-
----
-
-## Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/sageerify/sageerify/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="100%"/>
-</div>
-
-> This one needs a **5-minute one-time setup** — GitHub doesn't generate it automatically. It's a GitHub Action that turns your contribution graph into an animated snake eating the squares:
-> 1. In this repo, go to **Settings → Secrets and variables → Actions**, no secrets needed for the basic version.
-> 2. Add `.github/workflows/snake.yml` with the [Platane/snk action](https://github.com/Platane/snk#-as-a-github-action) — a ready-made template is on that page.
-> 3. Push it, let the Action run once, then it auto-updates the SVG daily.
-> Until it's set up, this image will show as broken — that's expected.
 
 ---
 
