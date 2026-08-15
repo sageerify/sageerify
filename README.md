@@ -1,15 +1,12 @@
 <div align="center">
 
-# Sageer Ahmed
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=160&section=header&text=Sageer%20Ahmed&fontSize=42&fontColor=39ff14&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20WordPress%20%2B%20SEO&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
-### Full-Stack Developer (MERN) · WordPress Specialist · SEO Practitioner
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=39FF14&background=0D111700&center=true&vCenter=true&width=600&lines=%24+whoami;sageer+%E2%80%94+full-stack+developer;%24+cat+skills.json;MERN+%2B+Next.js+%2B+WordPress+%2B+SEO;%24+status;shipping..." alt="Typing SVG" />
 
-Building web products end-to-end — from database schema to pixel-perfect UI — for clients and startups alike.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sageerify.vercel.app-2f81f7?style=flat-square)](https://sageerify.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sageer-ahmed-28b704321)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:s.hunzai100@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-HunzaTimes-4a4a4a?style=flat-square&logo=wordpress&logoColor=white)](https://hunzatimes.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sageerify.vercel.app-39ff14?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)](https://sageerify.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-39ff14?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117)](https://www.linkedin.com/in/sageer-ahmed-28b704321)
+[![Email](https://img.shields.io/badge/Email-Contact-39ff14?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117)](mailto:s.hunzai100@gmail.com)
 
 </div>
 
@@ -17,13 +14,15 @@ Building web products end-to-end — from database schema to pixel-perfect UI �
 
 ## About
 
-I'm a software engineering student at **Karakoram International University** and a full-stack developer based in Gilgit-Baltistan, Pakistan. I design and ship production web applications with the **MERN stack** and **Next.js**, and I run WordPress/SEO projects independently — including publishing and growing my own site, [HunzaTimes](https://hunzatimes.com).
-
-- 🎓 BS Software Engineering, KIU (2024–2028)
-- 🛠️ Building **ScholarMatch** — a global scholarship/fellowship/internship discovery platform (Next.js, TypeScript, MongoDB)
-- 🏨 Delivering client sites for local hospitality businesses in Gilgit
-- 📈 Background in freelance SEO and WordPress development
-- 🌍 Working toward a sustainable remote freelance career (Upwork/Fiverr)
+```bash
+$ cat about.md
+> Software Engineering student @ Karakoram International University (2024–2028)
+> Full-stack developer based in Gilgit-Baltistan, Pakistan
+> Building production apps with the MERN stack + Next.js
+> Running independent WordPress/SEO projects, incl. hunzatimes.com
+> Currently: shipping ScholarMatch, a global scholarship-discovery platform
+> Goal: sustainable remote freelance career (Upwork / Fiverr)
+```
 
 ---
 
@@ -85,12 +84,30 @@ Lightweight, dependency-free site built with vanilla HTML/CSS/JS.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sageerify&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sageerify&layout=compact&theme=default&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sageerify&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=39ff14&title_color=39ff14&text_color=c9d1d9&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sageerify&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39ff14&text_color=c9d1d9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sageerify&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sageerify&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sageerify&theme=github-compact&bg_color=0D1117&color=39ff14&line=39ff14&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
+
+> **If a stats card shows "Something went wrong" or stays blank:** it's almost always the shared `vercel.app` stats API being rate-limited or briefly down — not your profile. Refresh in a minute, or [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) of `github-readme-stats` for a card that never rate-limits.
+
+---
+
+## Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/sageerify/sageerify/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="100%"/>
+</div>
+
+> This one needs a **5-minute one-time setup** — GitHub doesn't generate it automatically. It's a GitHub Action that turns your contribution graph into an animated snake eating the squares:
+> 1. In this repo, go to **Settings → Secrets and variables → Actions**, no secrets needed for the basic version.
+> 2. Add `.github/workflows/snake.yml` with the [Platane/snk action](https://github.com/Platane/snk#-as-a-github-action) — a ready-made template is on that page.
+> 3. Push it, let the Action run once, then it auto-updates the SVG daily.
+> Until it's set up, this image will show as broken — that's expected.
 
 ---
 
