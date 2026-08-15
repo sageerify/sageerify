@@ -90,6 +90,13 @@ I'm open to freelance projects and collaboration on web development, SEO, and ME
 [![Instagram](https://img.shields.io/badge/Instagram-@sageerify-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sageerify)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28930309/sageer-ahmed)
 [![x](https://img.shields.io/badge/X-Profile-E3305F?style=flat-square&logo=x&logoColor=white)](https://x.com/sageerify)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sageerify/)
+[Mastodon](https://mastodon.social/@sageer) 
+[GitHub](https://github.com/sageerify)
+[![Blog](https://img.shields.io/badge/Blog-000000?logo=google-chrome&logoColor=white)](https://sageerify.vercel.app)
+
+
+
 
 
 </div>
