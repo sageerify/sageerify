@@ -67,11 +67,11 @@ MERN-stack tourism platform connecting travelers in Gilgit-Baltistan with local 
 `MongoDB` `Express` `React` `Node.js`
 
 ### 🍽️ Dawat Restaurant
-Rooftop dining website for a restaurant at Indus Lodges, Gilgit.
+Rooftop dining website for a restaurant at Indus Lodges.
 `React` `Tailwind CSS`
 
 ### 🏨 The Mandarin Inn
-Business website for a 3-star hotel in Jutial, Gilgit.
+Business website for a 3-star hotel.
 
 ### ☕ Sole Cafe (Brooklyn)
 Lightweight, dependency-free site built with vanilla HTML/CSS/JS.
