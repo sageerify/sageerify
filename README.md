@@ -89,7 +89,7 @@ I'm open to freelance projects and collaboration on web development, SEO, and ME
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sageer_Ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sageer-ahmed-28b704321)
 [![Instagram](https://img.shields.io/badge/Instagram-@sageerify-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sageerify)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28930309/sageer-ahmed)
-[![x](https://img.shields.io/badge/X-Profile-FE7A16?style=flat-square&logo=x&logoColor=white)](https://x.com/sageerify)
+[![x](https://img.shields.io/badge/X-Profile-#000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sageerify)
 
 
 </div>
