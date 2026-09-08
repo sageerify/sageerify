@@ -79,6 +79,8 @@ $ cat about.md
 
 ---
 
+## Working Account
+
 ## Let's Connect
 
 I'm open to freelance projects and collaboration on web development, SEO, and MERN/WordPress builds.
