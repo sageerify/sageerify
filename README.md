@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=160&section=header&text=Sageer%20Ahmed&fontSize=42&fontColor=39ff14&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20WordPress%20%2B%20SEO&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
-
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=39FF14&background=0D111700&center=true&vCenter=true&width=600&lines=%24+whoami;sageer+%E2%80%94+full-stack+developer;%24+cat+skills.json;MERN+%2B+Next.js+%2B+WordPress+%2B+SEO;%24+status;shipping..." alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sageerify.vercel.app-39ff14?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)](https://sageerify.vercel.app)
